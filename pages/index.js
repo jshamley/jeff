@@ -19,7 +19,6 @@ export default class extends React.Component {
     return await axios
       .post(`https://graphql.cosmicjs.com/v1`, { query })
       .then(function(response) {
-        console.warn(response);
         return {
           cosmic: {
             posts: _.filter(response.data.data.objects, { type_slug: 'posts' }),
