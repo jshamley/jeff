@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "next build; NODE_ENV=production node server.js",
+    "start": "next build; NODE_ENV=production COSMIC_READ_KEY=6fHYbCzxIIyP0xXerc8iARgNsFicZIkj6aE3ErXu5GQBlDxp6e node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
