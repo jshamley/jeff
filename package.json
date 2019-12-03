@@ -1,0 +1,23 @@
+{
+  "name": "jeff",
+  "version": "1.0.0",
+  "description": "just a stupid blog that sucks",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next build; NODE_ENV=production node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "next": "^9.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
