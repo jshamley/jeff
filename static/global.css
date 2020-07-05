@@ -6,7 +6,6 @@ body {
 	color: #333;
 	background: url('./mountain_bg.png') no-repeat center bottom;
 	background-size: 125vw;
-	min-height: 100vh;
 	padding-bottom: 10rem;
 }
 
