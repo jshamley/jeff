@@ -10,17 +10,39 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin: 0 0 0.5em 0;
-	font-weight: 400;
+	margin: 0 0 0.5rem 0;
+	font-weight: 700;
 	line-height: 1.2;
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 2.5rem;
+}
+h2 {
+	font-size: 2rem;
+}
+h3 {
+	font-size: 1.5rem;
+}
+h4 {
+	font-size: 1.25rem;
+}
+h5 {
+	font-size: 1rem;
+}
+h6 {
+	font-size: 0.875rem;
 }
 
 a {
-	color: inherit;
+	color: lightskyblue;
+	text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+	text-decoration: underline;
 }
 
 code {
