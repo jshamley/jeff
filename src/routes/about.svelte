@@ -4,6 +4,8 @@
 
 <h1>About Shamley Incorporated</h1>
 
+<p>We can help level up your existing developers or assist in honing your hiring practices.</p>
+
 <p>Holy man open up your eyes To the ways of the world you've been so blind. Slow death immense decay. An unforeseen future nestled somewhere in time. Mandatory suicide massacre on the front line. I won't be force fed prophecies From a book of untruths for the weakest mind. Bones shining by the night in blood laced misery. Fly swatter stakes drive through your chest. Corpses rotting through the night in blood laced misery. Man made virus infecting the world Self-destruct human time bomb. The way that I want you to die. Spikes impale you as you're forced off the crest. Spikes impale you as you're forced off the crest. The pendulum it shaves the blade the strafing air blood raid. Feel the knife pierce you intensely.</p>
 
 <p>The way that I want you to die. Man made virus infecting the world Self-destruct human time bomb. Hunting with bated breath. Not once has anyone ever seen Such a rise of pure hypocrisy. Corpses rotting through the night in blood laced misery. Propaganda death ensemble burial to be. Sadistic surgeon of demise sadist of the noblest blood. Cut throat slit your wrist shoot you in the back fair game. Betrayed by many now ornaments dripping above. Radical amputation this is insane. Spikes impale you as you're forced off the crest. I'll never be the one to blindly follow. Tell me what you think of your savior now. Indication of triumph: the numbers that are dead.</p>
