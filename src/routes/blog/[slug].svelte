@@ -32,7 +32,7 @@
 	}
 
 	.content :global(pre) {
-		background-color: #f9f9f9;
+		background-color: #ddd;
 		box-shadow: inset 1px 1px 5px rgba(0,0,0,0.05);
 		padding: 0.5em;
 		border-radius: 2px;
